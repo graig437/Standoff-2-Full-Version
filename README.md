@@ -267,4 +267,4 @@ This repository serves as the official landing page for Standoff 2. The software
 **Get the most recent version of Standoff 2 today!**
 
 ---
-**Last updated:** 2026-10-24 23:54:01 UTC
+**Last updated:** 2026-10-25 02:36:01 UTC
